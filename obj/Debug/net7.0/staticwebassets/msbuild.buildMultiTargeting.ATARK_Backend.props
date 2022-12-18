@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ATARK_Backend.props" />
+</Project>
